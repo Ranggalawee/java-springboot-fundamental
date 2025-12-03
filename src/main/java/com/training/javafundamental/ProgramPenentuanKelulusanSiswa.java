@@ -26,7 +26,7 @@ public class ProgramPenentuanKelulusanSiswa {
 
             System.out.println("Siswa dengan nama " + namaSiswa + " " + status);
         } catch (InputMismatchException e) {
-            throw new RuntimeException(e);
+            System.out.println("Error: Input harus berupa angka bulat!");
         }
 
     }
