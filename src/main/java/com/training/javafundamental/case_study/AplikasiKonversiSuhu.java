@@ -1,4 +1,4 @@
-package com.training.javafundamental;
+package com.training.javafundamental.case_study;
 
 import java.util.Scanner;
 
